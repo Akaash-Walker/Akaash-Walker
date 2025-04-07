@@ -1,23 +1,18 @@
-# 👋 Hey, I'm Akaash
+# Hello there! 👋 
 
-Welcome to my GitHub! I'm a developer who enjoys crafting clean and responsive frontends, with an interest in diving more into full-stack development.
+Welcome to my GitHub! I'm Akaash, a Junior CS student at WPI.
 
 ## 🚀 What I'm Working On
 
-I'm currently working on a full-stack project for one of my classes. I'm serving as the assistant lead for frontend, using **React** alongside **Tailwind CSS**.  
-The backend uses **Express**, **Node.js**, **Prisma ORM**, and **PostgreSQL** — so I'm getting solid experience across the stack.
-
-## 🛠️ Tech I Use & Like
-
-- 🌐 Frontend: React, Tailwind CSS, Laravel
-- ⚙️ Backend: Node.js, Express, Prisma, PostgreSQL
-- 📚 Currently learning: React + Tailwind (and loving the workflow)
+I'm currently working on a full-stack project for one of my classes. I'm serving as assistant lead for frontend development, using **React** alongside **Tailwind CSS**.  
+The backend uses **Express**, **Node.js**, **Prisma ORM**, and **PostgreSQL**.
 
 ## 🔧 Fun Fact
 
-I'm big into thrifting electronics — there's nothing better than getting a good deal!
+I like to buy (almost) all my electronics second hand!
 
-## 📫 Let's Connect
+## 📫 Contact
+Feel free to reach out to me via my LinkedIn!
 
 [LinkedIn](https://www.linkedin.com/in/akaash-walker-1a82821a0/) <!-- Replace # with your actual LinkedIn link -->
 ---
