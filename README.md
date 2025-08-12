@@ -1,4 +1,4 @@
-# Hello there 💃🕺
+# 💃 Hello there 🕺
 
 Welcome to my GitHub! I'm Akaash, a Junior CS student at WPI
 
