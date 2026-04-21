@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Akaash, a Junior CS student at WPI
 
 ## 🚀 What I'm Working On
 
-I'm currently building a website for Artful Expressions, an art studio opening in Derry, NH. [GitHub here!](https://github.com/Akaash-Walker/artful_expressions)
+I'm building a [fake news detector](https://github.com/Akaash-Walker/DS-3010-Final-Project) with a group of students that will use a trained model to determine if a given news article is fake or not.
 
 ## 🔧 Fun Fact
 
