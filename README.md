@@ -1,14 +1,14 @@
 # 💃 Hello there 🕺
 
-Welcome to my GitHub! I'm Akaash, a Junior CS student at WPI
+Welcome to my GitHub! I'm Akaash, a Senior CS/DS double major at WPI.
 
 ## 🚀 What I'm Working On
 
-I'm building a [fake news detector](https://github.com/Akaash-Walker/DS-3010-Final-Project) with a group of students that will use a trained model to determine if a given news article is fake or not.
+I'm building a [fake news detector](https://github.com/Akaash-Walker/fake-news-detector) that will use machine learning to determine if a given news article is fake or not.
 
 ## 🔧 Fun Fact
 
-I use a Mac for development but don't have an iPhone :P
+I like to record and edit videos in my free time 🎥 
 
 ## 📫 Contact
 
